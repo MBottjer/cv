@@ -8,7 +8,7 @@ Recent graduate and full-stack web developer based in London. Advocate and pract
 
 | [PinchIt](https://github.com/MBottjer?tab=repositories) | [SudokuWebVersion](https://github.com/MBottjer/SudokuWebVersion) | [RockPaperScissors](https://github.com/MBottjer/RockPaperScissors) |
 |:--------------- |:-------- |:--------- |
-| Rails MVP created in 10 days that enables suppliers to offer exclusive deals in a time pressured environment. It's a snapchat for deals! | Sinatra web app that allows users to play randomly generated Sudoku puzzles of varying difficulties. | An online adaptation of the rock. scissors, paper, Spock and lizard game as featured of "The Big Bang Theory". |
+| Rails MVP created in 10 days that enables suppliers to offer exclusive deals in a time pressured environment. It's a snapchat for deals! | Sinatra web app that allows users to play randomly generated Sudoku puzzles of varying difficulties. | An online adaptation of the rock, scissors, paper, spock and lizard game as featured on "The Big Bang Theory". |
 
 
 
